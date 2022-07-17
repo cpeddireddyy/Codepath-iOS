@@ -11,5 +11,5 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Video] (https://imgur.com/LhkLYOz.gif)
+![Video] (https://imgur.com/qZkwbnB)
 
