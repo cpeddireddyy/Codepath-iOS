@@ -11,6 +11,5 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="csjJX14" data-context="false" ><a href="//imgur.com/csjJX14"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
