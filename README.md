@@ -11,4 +11,4 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="demo.gif" width="100" height="150">
+<img src="demo.gif" width="200" height="300">
