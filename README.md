@@ -11,5 +11,5 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-[<blockquote class="imgur-embed-pub" lang="en" data-id="csjJX14" data-context="false" ><a href="//imgur.com/csjJX14"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>](https://imgur.com/csjJX14)
+![Video] (https://imgur.com/LhkLYOz.gif)
 
