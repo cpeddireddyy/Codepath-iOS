@@ -11,5 +11,5 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt text](https://imgur.com/qZkwbnB)
+![Alt text](demo.gif) / ![](demo.gif)
 
