@@ -11,5 +11,4 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-![Alt text](demo.gif)
-
+<img src="demo.gif" width="100" height="150">
